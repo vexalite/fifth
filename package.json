@@ -1,0 +1,23 @@
+{
+  "name": "fifth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vexalite/fifth.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vexalite/fifth/issues"
+  },
+  "homepage": "https://github.com/vexalite/fifth#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
